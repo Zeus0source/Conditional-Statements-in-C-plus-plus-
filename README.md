@@ -4,7 +4,7 @@ Visual Studio
 # Theory:
 Decision-making is the process to make a decision about which part of the code should be executed or not based on some condition. Decision-making in C++ involves the usage of conditional statements (also called decision control statements) to execute specific blocks of code primarily based on given situations and their results.
 
-<img width="988" height="671" alt="Screenshot 2025-07-20 095740" src="https://github.com/user-attachments/assets/f59a21f2-2f8e-44e5-9de9-835abafe3e9e" />
+<img width="500" height="500" alt="Screenshot 2025-07-20 095740" src="https://github.com/user-attachments/assets/f59a21f2-2f8e-44e5-9de9-835abafe3e9e" />
 
 1. <ins>if Statement:</ins>
 In C++, the if statement is the simplest decision-making statement. It allows the execution of a block of code if the given condition is true. The body of the if statement is executed only if the given condition is true.
